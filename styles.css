@@ -1,0 +1,72 @@
+styles.css
+* {
+    /* padding: 0;
+    margin: 0; */
+    box-sizing: border-box;
+}
+ 
+body {
+    background-color: rgba(0, 0, 0, 0.925);
+    color: rgba(255, 253, 253, 0.705);
+    font-family: '  Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin: 0;
+}
+ 
+section {
+    background-color: rgba(161, 161, 161, 0.788);
+    color:rgb(243, 156, 156)
+}
+/* Legends Z-A */
+@import url('fontmeme.com/pokemon-font-styles/');
+
+ 
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+ 
+body {
+    background-color: rgb(20, 20, 20);
+    color: snow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ 
+section {
+    background-color: rgba(255, 255, 255, 0.1);
+    margin: 1rem 2rem;
+    padding: 1rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 0.4rem;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.4);
+}
+ 
+h1 {
+    /* 2x Base font size (16px) */
+    font-size: 2em;
+}
+ 
+p:first-letter {
+    font-size: 2rem;
+}
+ 
+/* Unvisited */
+a:link {
+    color: rgba(9, 255, 0, 0.5);
+}
+ 
+/* Visited */
+a:visited {
+    color: pink;
+}
+ 
+/* Cursor over text */
+a:hover {
+    color: white;
+}
+ 
+ul li {
+    text-align: left;
+    margin: 0.4rem 0;
+}
