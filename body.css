@@ -1,5 +1,5 @@
 body {
-    background-color: rgba(0, 94, 156, 0.596);
+    background-color: rgba(4, 7, 170, 0.726);
 }
  
 h2, p {
@@ -9,24 +9,24 @@ h2, p {
 }
  
 h2 {
-    color: #ffffffec;
-    border-bottom: 1px solid #ff00006c;
+    color: #09008bec;
+    border-bottom: 1px solid #02215c88;
 }
  
 p {
     min-height: 10px;
     max-height: 30px;
     overflow: scroll;
-    border: 1px dotted rgba(244, 248, 5, 0.979);
+    border: 1px dotted rgba(251, 255, 0, 0.979);
 }
  
 main {
-    box-shadow: 0 0 12px rgba(0, 60, 109, 0.1);
+    box-shadow: 0 0 12px rgba(0, 7, 14, 0.37);
     width: fit-content;
     height: fit-content;
     padding: 0.4rem 1.2rem;
     margin: 2em auto 0;
     border-radius: 1em;
-    background-color: rgba(1, 87, 167, 0.815);
-    border-top: rgba(1, 131, 206, 0.486) 0.1em solid;
+    background-color: rgba(211, 0, 0, 0.76);
+    border-top: rgba(25, 152, 226, 0.486) 0.1em solid;
 }
