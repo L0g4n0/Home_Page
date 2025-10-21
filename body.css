@@ -17,7 +17,7 @@ p {
     min-height: 10px;
     max-height: 30px;
     overflow: scroll;
-    border: 1px dotted rgba(1, 131, 206, 0.486);
+    border: 1px dotted rgba(244, 248, 5, 0.979);
 }
  
 main {
@@ -28,5 +28,5 @@ main {
     margin: 2em auto 0;
     border-radius: 1em;
     background-color: rgba(1, 87, 167, 0.815);
-    border-top: rgb(247, 0, 255) 0.1em solid;
+    border-top: rgba(1, 131, 206, 0.486) 0.1em solid;
 }
