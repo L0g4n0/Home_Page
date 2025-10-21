@@ -17,7 +17,7 @@ p {
     min-height: 10px;
     max-height: 30px;
     overflow: scroll;
-    border: 1px dotted rgba(244, 248, 5, 0.979);
+    border: 1px dotted rgba(1, 131, 206, 0.486);
 }
  
 main {
