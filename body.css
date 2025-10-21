@@ -1,0 +1,32 @@
+body {
+    background-color: rgba(0, 94, 156, 0.596);
+}
+ 
+h2, p {
+    width: 400px;
+    font-size: 90%;
+    line-height: 1.2em;
+}
+ 
+h2 {
+    color: #ffffffec;
+    border-bottom: 1px solid #ff00006c;
+}
+ 
+p {
+    min-height: 10px;
+    max-height: 30px;
+    overflow: scroll;
+    border: 1px dotted rgba(244, 248, 5, 0.979);
+}
+ 
+main {
+    box-shadow: 0 0 12px rgba(0, 60, 109, 0.1);
+    width: fit-content;
+    height: fit-content;
+    padding: 0.4rem 1.2rem;
+    margin: 2em auto 0;
+    border-radius: 1em;
+    background-color: rgba(1, 87, 167, 0.815);
+    border-top: rgb(247, 0, 255) 0.1em solid;
+}
