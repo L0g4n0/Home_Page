@@ -65,12 +65,12 @@ li {
     line-height: 1.8em;
 }
  
-#recipe-content {
+#cars 2 {
     display: flex;
     gap: 2.4rem;
 }
  
-#pizza-img {
+#materimg {
     height: 480px;
     border-radius: 8px;
     box-shadow: 0 0 8px rgb(202, 221, 34);
